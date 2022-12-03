@@ -30,7 +30,7 @@ A brute force solution is provided:
 ### Problem #003 - Digit factorial chains
 https://projecteuler.net/problem=74
 
-A brute force solution with caching is provided.
+A brute force solution with caching is provided
 
     > java DigitFactorialChains.java
     Result: 402  took 211 ms
