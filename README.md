@@ -9,14 +9,15 @@ https://projecteuler.net/problem=6
 
 Two solutions are provided:
 1. Simple brute force loop
-   (1 + 2 + ... + N)^2 - (1^2 + 2^2 + ... N^2)
-2. Mathematical solution
-   ((N * (N+1))/2)^2  - (N*(N+1)*(2*N+1))/6
+  (1 + 2 + ... + N)^2 - (1^2 + 2^2 + ... N^2)
+2. Mathematical solution 
+  ((N * (N+1))/2)^2  - (N*(N+1)*(2*N+1))/6
 
+To launch the application, type in console the following: 
 
     > java SumSquareDifference.java
-    Simple brute force loop: 2501166841675000 took 10 ms
-    Mathematical solution: 2501166841675000  took 0 ms
+    Simple brute force loop: 25164150 took 10 ms
+    Mathematical solution: 25164150  took 0 ms
 
 ### Problem #002 - 10001st prime 
 https://projecteuler.net/problem=7
